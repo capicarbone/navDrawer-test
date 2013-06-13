@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/release/assets" />
+    </dataSet>
+
+</merger>
