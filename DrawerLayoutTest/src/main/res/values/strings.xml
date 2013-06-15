@@ -10,4 +10,12 @@
     <string name="drawer_abierto">Drawer Abierto</string>
     <string name="drawer_cerrado">Drawer Cerrado</string>
 
+    <string-array name="opciones">
+        <item>Inicio</item>
+        <item>Agregar</item>
+        <item>Consultar</item>
+        <item>Editar</item>
+        <item>Eliminar</item>
+    </string-array>
+
 </resources>

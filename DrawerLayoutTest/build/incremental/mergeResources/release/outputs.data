@@ -1,13 +1,21 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1371135458000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values-v11/values.xml
-1371137294000 910 5e03dec0b2aacf3846284ed6430bf69d2f5ae33c /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values/values.xml
+1371243701000 173 680ee1fcb14bb4333e95c5301116a7450fcc3a5f /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-mdpi/drawer_shadow.9.png
+1371252360000 552 dd070dc1cd28a251ff47b011203133068ce735cb /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/layout/opcion_view.xml
+1371243701000 2855 be4ec95ce2dc39b65f74a93565ea605589f29024 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-xhdpi/ic_drawer.png
+1371248794000 1112 e519d6cfd3fd9f2bf99d616b810ec87145a2fa5f /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values/values.xml
 1371135458000 24654 696bbbc63d2250ef7d3373f2d602e604acd13d8c /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-xxhdpi/ic_launcher.png
-1371135458000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-mdpi/ic_launcher.png
+1371243701000 2843 84b92057e476ced3a5b2e74b457a6cda5c9fc306 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-hdpi/ic_drawer.png
 1371135458000 7721 39b0f5a0570da92f471225402ad0ea6de30bf2be /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-hdpi/ic_launcher.png
 1371135458000 217 f02e000d05a079992d2dba18039216c1e6b8784f /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values-v14/values.xml
+1371243701000 2838 aff2046e82373610678f3529a312cdc628663e30 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-mdpi/ic_drawer.png
 1371135458000 125 fae9d1b71d520745438010c9ca7cde9c81dfefac /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values-sw720dp-land/values.xml
-1371138910000 933 1e562637a0bb167e8a542223d745b559c22cef79 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/layout/activity_main.xml
 1371135458000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/menu/main.xml
 1371135458000 12329 a8301606e15d4b6dccdd775cc273cfc51a552645 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-xhdpi/ic_launcher.png
+1371135458000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/values-v11/values.xml
+1371248794000 464 ec362bb6f6f487128a5ebe33d0451a2bda3039ff /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/layout/fragment_prueba.xml
+1371243701000 188 e659609c33f7899eadf2411bebe57d98d3d40265 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-hdpi/drawer_shadow.9.png
+1371135458000 3769 eec07752d40e268ed7f4a1730acc77ab1e40aeb0 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-mdpi/ic_launcher.png
+1371243701000 195 1c5077b0c3b821c024b481c164bce56205ee9fd4 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/drawable-xhdpi/drawer_shadow.9.png
+1371252360000 886 c59d8543592d0be762fb4bab12576d2fc793e5e4 /home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/build/res/all/release/layout/activity_main.xml

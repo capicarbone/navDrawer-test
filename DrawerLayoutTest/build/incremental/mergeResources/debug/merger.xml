@@ -20,13 +20,33 @@
                 </style>
             </file>
             <file
+                name="drawer_shadow"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-xhdpi/drawer_shadow.9.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
                 name="ic_launcher"
                 path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi"
                 type="drawable" />
             <file
+                name="ic_drawer"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-xhdpi/ic_drawer.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="drawer_shadow"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-mdpi/drawer_shadow.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
                 name="ic_launcher"
                 path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_drawer"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-mdpi/ic_drawer.png"
                 qualifiers="mdpi"
                 type="drawable" />
             <file
@@ -89,6 +109,24 @@
                 </string>
                 <string name="drawer_cerrado" >Drawer Cerrado
                 </string>
+
+                <string-array name="opciones" >
+                    <item>
+Inicio
+                    </item>
+                    <item>
+Agregar
+                    </item>
+                    <item>
+Consultar
+                    </item>
+                    <item>
+Editar
+                    </item>
+                    <item>
+Eliminar
+                    </item>
+                </string-array>
             </file>
             <file
                 name="main"
@@ -99,13 +137,33 @@
                 path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/values-sw600dp/dimens.xml"
                 qualifiers="sw600dp" />
             <file
+                name="drawer_shadow"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-hdpi/drawer_shadow.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
                 name="ic_launcher"
                 path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi"
                 type="drawable" />
             <file
+                name="ic_drawer"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/drawable-hdpi/ic_drawer.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
                 name="activity_main"
                 path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_prueba"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/layout/fragment_prueba.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="opcion_view"
+                path="/home/capi/Repositorios/DrawerLayoutTestProject/DrawerLayoutTest/src/main/res/layout/opcion_view.xml"
                 qualifiers=""
                 type="layout" />
         </source>
